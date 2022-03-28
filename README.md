@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @alstot
-- 👀 I’m interested in software development, business, IT, photogrpahy, videography.
-- 🌱 I’m currently learning hardware development and programming at Tallinn University of Technology.
+- 👋 Hi, I’m Alisa Stoten
+- 👀 I’m interested in software development, business, IT, photogrpahy, videography, understanding human behavior patterns ʕ•́ᴥ•̀ʔっ
+- 🌱 I’m currently learning Hardware Development and Programming at Tallinn University of Technology.
 - 📫 How to reach me: alisastoten7@gmail.com
 
 <!---
