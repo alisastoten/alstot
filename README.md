@@ -1,10 +1,6 @@
 - 👋 Hi, I’m Alisa
-- 👀 I’m interested in software development, business, IT, photogrpahy, videography, understanding human behavior patterns ʕ•́ᴥ•̀ʔっ
-- 🌱 I used to learn Hardware Development and Programming for a year but I’m currently studying Business Infomration Technology at Tallinn University of Technology.
+- 👀 I’m interested in software development, business, IT, beautiful web design and understanding human behavior ʕ•́ᴥ•̀ʔっ
+- 🌱 I used to learn Hardware Development and Programming for a year but I’m currently studying Business Information Technology at TalTech.
 - 📫 How to reach me: alisastoten7@gmail.com
-- 🌐 You can check out my website to get a better understanding of who I am https://alisastoten.ee/
+- 🌐 You can check out a website I have created, there is also some of my work there: https://doitwell.ee/
 
-<!---
-alstot/alstot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
